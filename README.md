@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/projetoprimeiro)
+- [Acesse o projeto finalizado, online][https://manu-cappelli.github.io/projetoprimeiro/]
 
 ## 🔖 Layout
 
@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/Emanuele Cappelli do Amaral#4042)
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
